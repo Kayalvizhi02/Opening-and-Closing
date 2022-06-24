@@ -1,4 +1,6 @@
-# Opening and Closing
+### EX NO: 11
+### DATE:
+# <p align="center">Opening and Closing</p>
 
 ## Aim:
 To implement Opening and Closing using Python and OpenCV.
@@ -30,9 +32,10 @@ Plot the images using plt.imshow.
 
  
 ## Program:
-### Developed by : KAYALVIZHI M
-### Register Number: 212220230024
-
+```
+Developed by : KAYALVIZHI M
+Register Number: 212220230024
+```
 ``` Python
 # Import the necessary packages
 
